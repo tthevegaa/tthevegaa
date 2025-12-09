@@ -9,8 +9,8 @@ Software engineering student focused on backend development. I enjoy building re
 📍Puebla, Mexico.
 
 
-📖 𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜: 
-- DataBases.
+📖 𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜...
+- DataBases
 - OOP.
 - Binary Files.
 
@@ -19,7 +19,7 @@ Software engineering student focused on backend development. I enjoy building re
 -  Collaborating on Python or C++ projects.
 -  Sharing knowledge and learning from others.
 
-- Outside tech. I love boxing, playing videogames and meeting foreign people.
+# Outside tech. I love boxing, playing videogames and meeting new people, specially foreign ones.
 
 
 📩 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙈𝙚: tthevega7@gmail.com
