@@ -1,4 +1,7 @@
-## 𝗛𝗶, 𝗜’𝗺 𝗖𝗲𝘀𝗮𝗿 𝗩𝗲𝗴𝗮 👋🏽
+### 𝗛𝗶, 𝗜’𝗺 𝗖𝗲𝘀𝗮𝗿 𝗩𝗲𝗴𝗮 👋🏽
+
+### About me
+Software engineering student focused on backend development. I enjoy building real-world systems using C++, Python, OOP and databases. Always learning, improving and aiming to contribute to meaningful tech projects.
 
 👨🏽‍💻𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐒𝐭𝐮𝐝𝐞𝐧𝐭
 
