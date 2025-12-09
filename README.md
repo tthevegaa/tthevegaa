@@ -19,8 +19,8 @@ Software engineering student focused on backend development. I enjoy building re
 -  Collaborating on Python or C++ projects.
 -  Sharing knowledge and learning from others.
 
-# Outside tech. I love boxing, playing videogames and meeting new people, specially foreign ones.
 
+𝙊𝙪𝙩𝙨𝙞𝙙𝙚 𝙩𝙚𝙘𝙝. 𝙄 𝙡𝙤𝙫𝙚 𝙗𝙤𝙭𝙞𝙣𝙜, 𝙥𝙡𝙖𝙮𝙞𝙣𝙜 𝙫𝙞𝙙𝙚𝙤𝙜𝙖𝙢𝙚𝙨 𝙖𝙣𝙙 𝙢𝙚𝙚𝙩𝙞𝙣𝙜 𝙣𝙚𝙬 𝙥𝙚𝙤𝙥𝙡𝙚, 𝙨𝙥𝙚𝙘𝙞𝙖𝙡𝙡𝙮 𝙛𝙤𝙧𝙚𝙞𝙜𝙣 𝙤𝙣𝙚𝙨.
 
 📩 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙈𝙚: tthevega7@gmail.com
 
