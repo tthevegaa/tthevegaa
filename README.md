@@ -15,11 +15,6 @@ Software engineering student focused on backend development. I enjoy building re
 - Binary Files.
 
 
-🤝 𝙊𝙥𝙚𝙣 𝙏𝙤: 
--  Collaborating on Python or C++ projects.
--  Sharing knowledge and learning from others.
-
-
 𝙊𝙪𝙩𝙨𝙞𝙙𝙚 𝙩𝙚𝙘𝙝. 𝙄 𝙡𝙤𝙫𝙚 𝙗𝙤𝙭𝙞𝙣𝙜, 𝙥𝙡𝙖𝙮𝙞𝙣𝙜 𝙫𝙞𝙙𝙚𝙤𝙜𝙖𝙢𝙚𝙨 𝙖𝙣𝙙 𝙢𝙚𝙚𝙩𝙞𝙣𝙜 𝙣𝙚𝙬 𝙥𝙚𝙤𝙥𝙡𝙚, 𝙨𝙥𝙚𝙘𝙞𝙖𝙡𝙡𝙮 𝙛𝙤𝙧𝙚𝙞𝙜𝙣 𝙤𝙣𝙚𝙨.
 
 📩 𝗥𝗲𝗮𝗰𝗵 𝗢𝘂𝘁 𝗧𝗼 𝗠𝗲 𝗔𝘁 : tthevega7@gmail.com
