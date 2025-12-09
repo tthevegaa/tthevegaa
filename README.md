@@ -4,7 +4,6 @@
 Software engineering student focused on backend development. I enjoy building real-world systems using C++, Python, OOP and databases. Always learning, improving and aiming to contribute to meaningful tech projects.
 
 
-👨🏽‍💻𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐒𝐭𝐮𝐝𝐞𝐧𝐭
 
 📍Puebla, Mexico.
 
