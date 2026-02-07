@@ -1,12 +1,12 @@
 ### 𝗛𝗶, 𝗜’𝗺 𝗖𝗲𝘀𝗮𝗿 𝗩𝗲𝗴𝗮 👋🏽
 
 ### About me
-Software engineering student focused on backend development. I enjoy building real-world systems using C++, Python, OOP and databases. Always learning, improving and aiming to contribute to meaningful tech projects. 
+Software engineering student focused on backend development. I enjoy building real-world systems using C++, Python, Java, OOP and databases. Always learning, improving and aiming to contribute to meaningful tech projects. 
 C1 English speaker by Cambridge.
 
 
 
-📍Puebla, Mexico.
+📍Puebla, Mexico. 🇲🇽
 
 
 📖 𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜...
