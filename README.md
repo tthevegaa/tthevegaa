@@ -10,9 +10,9 @@ C1 English speaker by Cambridge.
 
 
 📖 𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜...
-- DataBases
-- OOP.
-- Binary Files.
+- Data Structures & algorithms 
+- Advanced OOP
+- Professional debugging 
 
 
 𝙊𝙪𝙩𝙨𝙞𝙙𝙚 𝙩𝙚𝙘𝙝. 𝙄 𝙡𝙤𝙫𝙚 𝙗𝙤𝙭𝙞𝙣𝙜, 𝙥𝙡𝙖𝙮𝙞𝙣𝙜 𝙫𝙞𝙙𝙚𝙤𝙜𝙖𝙢𝙚𝙨 𝙖𝙣𝙙 𝙢𝙚𝙚𝙩𝙞𝙣𝙜 𝙣𝙚𝙬 𝙥𝙚𝙤𝙥𝙡𝙚, 𝙨𝙥𝙚𝙘𝙞𝙖𝙡𝙡𝙮 𝙛𝙤𝙧𝙚𝙞𝙜𝙣 𝙤𝙣𝙚𝙨.
