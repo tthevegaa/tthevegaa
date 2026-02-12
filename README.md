@@ -1,7 +1,7 @@
 ### 𝗛𝗶, 𝗜’𝗺 𝗖𝗲𝘀𝗮𝗿 𝗩𝗲𝗴𝗮 👋🏽
 
 ### About me
-Software engineering student focused on backend development. I enjoy building real-world systems using C++, Python, Java, OOP and databases. Always learning, improving and aiming to contribute to meaningful tech projects. 
+Junior Software Developer focused on backend development. I enjoy building real-world systems using C++, Python, Java, OOP and databases. Always learning, improving and aiming to contribute to meaningful tech projects. 
 C1 English speaker by Cambridge.
 
 
