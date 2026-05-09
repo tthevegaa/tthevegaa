@@ -10,7 +10,7 @@ C1 English speaker by Cambridge.
 
 
 📖 𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜...
-- Data Structures & algorithms 
+- Data Bases 
 - Advanced OOP
 - Professional debugging 
 
