@@ -2,6 +2,7 @@
 
 ### About me
 Junior Software Developer focused on backend development. I enjoy building real-world systems using OOP and databases. Always learning, improving and aiming to contribute to meaningful tech projects. 
+
 C1 English speaker by Cambridge.
 
 
