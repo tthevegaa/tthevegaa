@@ -12,8 +12,8 @@ C1 English speaker by Cambridge.
 
 📖 CURRENTLY WORKING WITH...
 - Advanced Data Bases 
-- Advanced OOP
-- Professional debugging and hashing.
+- Professional Architecture
+- Scrum & Sprints
 
 
 𝙊𝙪𝙩𝙨𝙞𝙙𝙚 𝙩𝙚𝙘𝙝. 𝙄 𝙡𝙤𝙫𝙚 𝙗𝙤𝙭𝙞𝙣𝙜, 𝙥𝙡𝙖𝙮𝙞𝙣𝙜 𝙫𝙞𝙙𝙚𝙤𝙜𝙖𝙢𝙚𝙨 𝙖𝙣𝙙 𝙢𝙚𝙚𝙩𝙞𝙣𝙜 𝙣𝙚𝙬 𝙥𝙚𝙤𝙥𝙡𝙚, 𝙨𝙥𝙚𝙘𝙞𝙖𝙡𝙡𝙮 𝙛𝙤𝙧𝙚𝙞𝙜𝙣 𝙤𝙣𝙚𝙨.
